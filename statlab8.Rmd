@@ -1,0 +1,12 @@
+---
+title: "statlab8"
+author: "Ali Sanford"
+date: "April 11, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hey, it's Ali Sanford!
